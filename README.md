@@ -33,7 +33,7 @@
 
 ---
 
-### ✉️ Me encontre por aqui:
+### 📫 Me encontre por aqui:
 
 <a href="https://github.com/DevRigby">
   <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
