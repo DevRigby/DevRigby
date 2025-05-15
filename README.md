@@ -1,6 +1,6 @@
 <div align="center">
 
-# Opa! Eu sou o Rafa 🔥💻
+# Opa! Prazer sou o Rafa! 🪐💻
 
 <p>Sou estudante de Engenharia de Software, focado em desenvolvimento criativo e aprendizados. Aqui estão alguns dos meus projetos e tecnologias favoritas! 🌀</p>
 
@@ -33,7 +33,7 @@
 
 ---
 
-### 🪐 Me encontre por aqui:
+### ✉️ Me encontre por aqui:
 
 <a href="https://github.com/DevRigby">
   <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
