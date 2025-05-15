@@ -23,6 +23,8 @@
 
 ---
 
+<div align="center">
+
 ### 📬 Minhas redes / 🛠 Tecnologias Atuais
 
 <p>
