@@ -1,7 +1,7 @@
 <div align="left">
 
 # Opa! Prazer sou o Rafa! 🪐💻 
-<p>Sou estudante de Engenharia de Software, focado em desenvolvimento criativo e aprendizados. Aqui estão alguns dos meus projetos e tecnologias favoritas! 🌀</p>
+<p>Sou estudante de Engenharia de Software, focado em desenvolvimento criativo e aprendizados. Aqui estão alguns dos meus projetos utilizando minhas tecnologias favoritas! 🌀</p>
 
 ---
 
