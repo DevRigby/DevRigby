@@ -16,7 +16,7 @@
 
 ### 🛠 Tecnologias que uso e estudo:
 
-<code><img height="32" src="https://github.com/github/explore/raw/main/topics/java/java.png" alt="Java"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java"/></code>
 <code><img height="32" src="https://github.com/github/explore/raw/main/topics/javascript/javascript.png" alt="JavaScript"/></code>
 <code><img height="32" src="https://github.com/github/explore/raw/main/topics/html/html.png" alt="HTML5"/></code>
 <code><img height="32" src="https://github.com/github/explore/raw/main/topics/css/css.png" alt="CSS"/></code>
