@@ -14,6 +14,8 @@
 
 ---
 
+<div align="center">
+
 ### 🛠 Tecnologias que uso e estudo:
 
  <code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" alt="C"/></code>
@@ -34,6 +36,8 @@
 
 ---
 
+<div align="center">
+
 ### 📫 Me encontre por aqui:
 
 <a href="https://github.com/DevRigby">
@@ -42,7 +46,7 @@
 <a href="https://www.linkedin.com/in/rafaelmeleporto">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-<a href="https://www.instagram.com/rmporto">
+<a href="https://www.instagram.com/rafaelmeleporto">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
 </a>
 
