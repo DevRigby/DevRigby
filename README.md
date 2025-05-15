@@ -1,7 +1,6 @@
 <div align="left">
 
-# Opa! Prazer sou o Rafa! 🪐💻 <img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5" style="margin-right:8px;" /
-
+# Opa! Prazer sou o Rafa! 🪐💻 <img src="URL_DO_ICONE_HTML5" width="30" style="margin-right:5px;" />
 <p>Sou estudante de Engenharia de Software, focado em desenvolvimento criativo e aprendizados. Aqui estão alguns dos meus projetos e tecnologias favoritas! 🌀</p>
 
 ---
