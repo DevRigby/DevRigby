@@ -27,8 +27,8 @@
 ### 📊 Minhas estatísticas no GitHub:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SeuUsuarioAqui&show_icons=true&theme=tokyonight&count_private=true" height="150em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeuUsuarioAqui&layout=compact&theme=tokyonight" height="150em" />
+  <img src="https://github-readme-stats.vercel.app/api?username=DevRigby&show_icons=true&theme=tokyonight&count_private=true" height="150em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevRigby&layout=compact&theme=tokyonight" height="150em" />
 </p>
 
 ---
