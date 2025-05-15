@@ -1,18 +1,25 @@
 <div align="center">
 
-# Opa! Prazer sou o Rafa! 🪐💻
+<div align="center" style="display: flex; justify-content: center; gap: 30px; flex-wrap: nowrap; max-width: 700px; margin: 0 auto;">
 
-<p>Sou estudante de Engenharia de Software, focado em desenvolvimento criativo e aprendizados. Aqui estão alguns dos meus projetos e tecnologias favoritas! 🌀</p>
+  <div style="flex: 0 0 320px;">
+    <h2 style="margin-bottom: 0.3em;">Opa! Prazer sou o Rafa! 🪐💻</h2>
+    <p style="margin-top: 0; font-size: 0.9rem;">
+      Sou estudante de Engenharia de Software, focado em desenvolvimento criativo e aprendizados. Aqui estão alguns dos meus projetos e tecnologias favoritas! 🌀
+    </p>
+  </div>
 
----
+  <div style="flex: 0 0 320px; text-align: left;">
+    <h3 style="margin-bottom: 0.5em;">✨ Sobre mim ✨</h3>
+    <ul style="list-style: none; padding: 0; margin: 0; font-size: 0.9rem;">
+      <li>🎓 Graduando em Engenharia de Software (5º período/Unaerp)</li>
+      <li>⚡ Atualmente focando em HTML, JavaScript e Game Design</li>
+      <li>📍 Ribeirão Preto - SP, Brasil</li>
+      <li>📚 Curioso e Criativo as novas tecnologias</li>
+    </ul>
+  </div>
 
-### ✨ Sobre mim ✨
-- 🎓 Graduando em Engenharia de Software (5º período/Unaerp)
-- ⚡ Atualmente focando em HTML, JavaScript e Game Design 
-- 📍 Ribeirão Preto - SP, Brasil
-- 📚 Curioso e Criativo as novas tecnologias
-
----
+</div>
 
 ### 🛠 Tecnologias que uso e estudo:
 
