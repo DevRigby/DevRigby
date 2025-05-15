@@ -14,6 +14,15 @@
 
 ---
 
+### 📊 Minhas estatísticas no GitHub:
+
+<p align="center">
+ <img src="https://github-readme-stats.vercel.app/api?username=DevRigby&show_icons=true&theme=dark&count_private=true" height="150em" />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevRigby&layout=compact&theme=dark" height="150em" />
+</p>
+
+---
+
 ### 🛠 Tecnologias que uso e estudo:
 
  <code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" alt="C"/></code>
@@ -23,15 +32,7 @@
   <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="Java"/></code>
   <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" alt="C++"/></code>
 >
----
-
-### 📊 Minhas estatísticas no GitHub:
-
-<p align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=DevRigby&show_icons=true&theme=dark&count_private=true" height="150em" />
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevRigby&layout=compact&theme=dark" height="150em" />
-</p>
-
+>
 ---
 
 ### 📫 Me encontre por aqui:
