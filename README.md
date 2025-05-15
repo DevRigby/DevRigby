@@ -23,7 +23,7 @@
 
 ---
 
-### 📬 Me encontre por aqui e tecnologias que uso:
+### 📬 Minhas redes / 🛠 Tecnologias Atuais
 
 <p>
   <!-- Redes sociais com badges -->
@@ -34,7 +34,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 
-  <!-- Tecnologias -->
+  <!-- Tecnologias com bagdes -->
   <img height="32" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" alt="C" style="margin-right:8px;" />
   <img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5" style="margin-right:8px;" />
   <img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS" style="margin-right:8px;" />
