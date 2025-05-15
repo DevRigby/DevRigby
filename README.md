@@ -23,28 +23,26 @@
 
 ---
 
-### 🛠 Tecnologias que uso e estudo:
+<p><b>🔧 Tecnologias que uso e estudo:</b></p>
+<p>
+  <img src="URL_DO_ICONE_C" width="30" style="margin-right:5px;" />
+  <img src="URL_DO_ICONE_HTML5" width="30" style="margin-right:5px;" />
+  <img src="URL_DO_ICONE_CSS3" width="30" style="margin-right:5px;" />
+  <img src="URL_DO_ICONE_JS" width="30" style="margin-right:5px;" />
+  <img src="URL_DO_ICONE_JAVA" width="30" style="margin-right:5px;" />
+  <img src="URL_DO_ICONE_CPLUSPLUS" width="30" />
+</p>
 
- <code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" alt="C"/></code>
-  <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
-  <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
-  <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
-  <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="Java"/></code>
-  <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" alt="C++"/></code>
->
->
----
+<p><b>📬 Me encontre por aqui:</b></p>
+<p>
+  <a href="https://github.com/SEU_USUARIO" target="_blank" style="text-decoration:none; margin-right:5px;">
+    <img src="URL_DO_ICONE_GITHUB" width="90" />
+  </a>
+  <a href="https://linkedin.com/in/SEU_USUARIO" target="_blank" style="text-decoration:none; margin-right:5px;">
+    <img src="URL_DO_ICONE_LINKEDIN" width="90" />
+  </a>
+  <a href="https://instagram.com/SEU_USUARIO" target="_blank" style="text-decoration:none;">
+    <img src="URL_DO_ICONE_INSTAGRAM" width="90" />
+  </a>
+</p>
 
-### 📫 Me encontre por aqui:
-
-<a href="https://github.com/DevRigby">
-  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-<a href="https://www.linkedin.com/in/rafaelmeleporto">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="https://www.instagram.com/rmporto">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-</a>
-
-</div>
