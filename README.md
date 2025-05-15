@@ -8,7 +8,7 @@
 
 ### ✨ Sobre mim ✨
 - 🎓 Graduando em Engenharia de Software (5º período/Unaerp)
-- 🌱 Atualmente focando em HTML, JavaScript e Game Design 
+- ⚡ Atualmente focando em HTML, JavaScript e Game Design 
 - 📍 Ribeirão Preto - SP, Brasil
 - 📚 Curioso e Criativo as novas tecnologias
 
@@ -33,7 +33,7 @@
 
 ---
 
-### 📫 Me encontre por aqui:
+### 🪐 Me encontre por aqui:
 
 <a href="https://github.com/DevRigby">
   <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
