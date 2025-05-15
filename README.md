@@ -6,7 +6,7 @@
 
 ---
 
-### Sobre mim ✨
+### ✨ Sobre mim ✨
 - 🎓 Graduando em Engenharia de Software (5º período/Unaerp)
 - 🌱 Atualmente focando em HTML, JavaScript e Game Design 
 - 📍 Ribeirão Preto - SP, Brasil
