@@ -27,6 +27,8 @@
 
 ### 📬 Minhas redes / 🛠 Tecnologias Atuais
 
+<div align="left">
+
 <p>
   <!-- Redes sociais com badges -->
   <a href="https://github.com/DevRigby" target="_blank" style="margin-right:10px;">
@@ -39,6 +41,8 @@
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
 </a>
 
+<div align="right">
+ 
   <!-- Tecnologias com bagdes -->
   <code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" alt="C"/></code>
   <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
